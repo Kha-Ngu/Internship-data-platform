@@ -1,0 +1,7 @@
+company,role,location,salary_per_hour,skills,posted_date
+Amazon,Software Engineer Intern,Seattle,52,"Java;AWS;Spring Boot",2026-01-10
+Microsoft,Data Engineering Intern,Redmond,48,"Python;SQL;Azure;Airflow",2026-01-12
+BlackRock,Software Engineering Intern,New York,58,"Java;SQL;Kubernetes",2026-01-15
+Capital One,Data Analyst Intern,McLean,45,"Python;Polars;PostgreSQL",2026-01-16
+Databricks,Backend Engineering Intern,San Francisco,65,"Scala;Spark;Kubernetes",2026-01-18
+Amazon,Cloud Engineering Intern,Seattle,50,"AWS;Kubernetes;Docker",2026-01-20

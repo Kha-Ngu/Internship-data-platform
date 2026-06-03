@@ -1,0 +1,3 @@
+polars
+psycopg2-binary
+python-dotenv
